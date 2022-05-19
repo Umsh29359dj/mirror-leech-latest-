@@ -124,7 +124,7 @@
         "description": "Fill your URL if you are using extra buttons.",
         "required": false
       },
-      "BUTTON_FOUR_NAME": {
+      "IS_TEAM_DRIVE": {
         "description": "Extra buttons (optional).",
         "required": false
       },
@@ -134,7 +134,7 @@
       },
       "BASE_URL_OF_BOT": {
         "description": "Extra buttons (optional).",
-        "required": false
+        "required": true
       },
       "STATUS_LIMIT": {
         "description": "Fill your URL if you are using extra buttons.",

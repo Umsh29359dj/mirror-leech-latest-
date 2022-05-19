@@ -116,7 +116,7 @@
         "description": "Fill your shortener api key if you are using shortener.",
         "required": false
       },
-      "BUTTON_THREE_NAME": {
+      "CONFIG_FILE_URL": {
         "description": "Extra buttons (optional).",
         "required": false
       },
